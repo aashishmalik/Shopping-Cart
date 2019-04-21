@@ -1,0 +1,18 @@
+.productDiv {
+    border: 2px solid black;
+    margin: 5px;
+    background-color: aqua;
+    padding: 5px;
+    display: flexbox;
+    flex-wrap: wrap;
+    color: midnightblue;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+body {
+    background-color: red;
+}
